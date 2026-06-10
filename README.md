@@ -1,6 +1,6 @@
 <h1 align="center">Hello there.</h1>
 <p align="center">
-  I'm Galax (Phawat Suksiriwan). I mainly code in Rust, Python, and occasionally, TypeScript. I'm a backend development-oriented programmer who is also interested in DevOps.
+  I'm Galax (Phawat Suksiriwan). I mainly code in Rust, Python, and occasionally, TypeScript. I'm a backend development-oriented programmer who is interested in Linux, DevOps, and networking.
   <br />
   <br />
   <a href="https://skillicons.dev">
